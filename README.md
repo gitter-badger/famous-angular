@@ -1,5 +1,7 @@
 # Famo.us/Angular [![Build Status](https://travis-ci.org/Famous/famous-angular.svg?branch=master)](https://travis-ci.org/Famous/famous-angular)
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/trusktr/famous-angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Famo.us/Angular is an AngularJS-driven framework for building Famo.us apps.
 
 ###Read More
